@@ -2,9 +2,11 @@
 
 ### Conozcamonos mejor🤝
 
-Soy estudiante de la carrera Front-end developer en CoderHouse, actualmente también estoy cursando la carrera de contador en la Universidad de la República. Mi objetivo primero es continuar los estudios de Front-end hasta profesionalizarme en el area y luego convertirme en Full-stack.
-Me considero una persona muy entusiasta y autodidacta, estoy dispuesto a enfrentar cualquier desafio👨‍💼.
-En este momento me encuentro buscando mi primer experiencia laboral en el mundo IT, estoy muy ansioso por formar parte de una empresa que me permita poner en practica las habilidades aprendidas y crecer como profesional. Estaria muy contento de poder trabajar en equipo!! 
+-Soy estudiante de la carrera Front-end developer en CoderHouse, actualmente también estoy cursando la carrera de contador en la Universidad de la República. Mi objetivo primero es continuar los estudios de Front-end hasta profesionalizarme en el area y luego convertirme en Full-stack.
+
+-Me considero una persona muy entusiasta y autodidacta, estoy dispuesto a enfrentar cualquier desafio👨‍💼.
+
+-En este momento me encuentro buscando mi primer experiencia laboral en el mundo IT, estoy muy ansioso por formar parte de una empresa que me permita poner en practica las habilidades aprendidas y crecer como profesional. Estaria muy contento de poder trabajar en equipo!! 
 
 ### Tecnologías💻
 
@@ -12,7 +14,7 @@ En este momento me encuentro buscando mi primer experiencia laboral en el mundo 
 - React
 - Bootstrap Material UI
 - Git GitHub
--🛠 Visual Studio Code
+-Visual Studio Code 🛠
 
 #### Donde puedes encontrarme 🤜🤛
 
