@@ -2,7 +2,7 @@
 
 ### Conozcamonos mejor🤝
 
--Soy estudiante de la carrera Front-end developer en CoderHouse, actualmente también estoy cursando la carrera de contador en la Universidad de la República. Mi objetivo primero es continuar los estudios de Front-end hasta profesionalizarme en el area y luego convertirme en Full-stack.
+-Soy Front-End developer, estoy cursando el bootcamp de Hack Academy para convertirme en Full-Stack, también estoy cursando la carrera de contador en la Universidad de la República. Mi objetivo es perfeccionar mis skills como Front-end hasta profesionalizarme en el area y luego convertirme en Full-stack.
 
 -Me considero una persona muy entusiasta y autodidacta, estoy dispuesto a enfrentar cualquier desafio👨‍💼.
 
