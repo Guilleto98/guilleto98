@@ -10,8 +10,13 @@
 
 ### Tecnologías💻
 
-- HTML5 CSS JavaScript
+- HTML5
+-CSS
+-JavaScript
 - React
+- NodeJs
+- MySql
+- MongoDB
 - Bootstrap Material UI
 - Git GitHub
 -Visual Studio Code 🛠
