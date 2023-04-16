@@ -6,7 +6,7 @@ Mi nombre es Guillermo Torres, y soy un desarrollador front-end comprometido con
 
 Me gradué del Coding Bootcamp de Hack Academy, donde invertí más de 600 horas aprendiendo los principales lenguajes de programación. Durante mi formación, descubrí mi entusiasmo por la programación y desde entonces me he enfocado en el desarrollo Front-end con React.js.
 
-Como profesional, me comprometo a entregar un trabajo de alta calidad y he desarrollado habilidades técnicas sólidas. También soy un jugador de equipo que colabora bien con colegas y otros departamentos para lograr objetivos comunes.
+Como profesional, me comprometo a entregar un trabajo de alta calidad, considero que he desarrollado habilidades técnicas sólidas. También me considero un gran compañero de equipo que colabora bien con colegas y otros departamentos para lograr objetivos comunes.
 
 Siempre estoy buscando mejorar mis habilidades y estar al día con las últimas tendencias de la industria, y estoy abierto a nuevos desafíos que puedan ayudarme a crecer como profesional.
 
