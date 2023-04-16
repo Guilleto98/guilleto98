@@ -2,11 +2,21 @@
 
 ### Conozcamonos mejor🤝
 
--Soy Front-End developer, estoy cursando el bootcamp de Hack Academy para convertirme en Full-Stack, también estoy cursando la carrera de contador en la Universidad de la República. Mi objetivo es perfeccionar mis skills como Front-end hasta profesionalizarme en el area y luego convertirme en Full-stack.
+Mi nombre es Guillermo Torres, y soy un desarrollador front-end comprometido con experiencia en React. Me apasiona crear aplicaciones web hermosas y funcionales.
 
--Me considero una persona muy entusiasta y autodidacta, estoy dispuesto a enfrentar cualquier desafio👨‍💼.
+Me gradué del Coding Bootcamp de Hack Academy, donde invertí más de 600 horas aprendiendo los principales lenguajes de programación. Durante mi formación, descubrí mi entusiasmo por la programación y desde entonces me he enfocado en el desarrollo Front-end con React.js.
 
--En este momento me encuentro buscando mi primer experiencia laboral en el mundo IT, estoy muy ansioso por formar parte de una empresa que me permita poner en practica las habilidades aprendidas y crecer como profesional. Estaria muy contento de poder trabajar en equipo!! 
+Como profesional, me comprometo a entregar un trabajo de alta calidad y he desarrollado habilidades técnicas sólidas. También soy un jugador de equipo que colabora bien con colegas y otros departamentos para lograr objetivos comunes.
+
+Siempre estoy buscando mejorar mis habilidades y estar al día con las últimas tendencias de la industria, y estoy abierto a nuevos desafíos que puedan ayudarme a crecer como profesional.
+
+My name is Guillermo Torres, and I am a dedicated front-end developer with experience in React. I am passionate about creating beautiful and functional web applications.
+
+I graduated from Hack Academy's Coding Bootcamp, where I invested over 600 hours learning the most prominent programming languages. During my education, I discovered my enthusiasm for programming and have since been focused on Front-end development with React.js.
+
+As a professional, I am committed to delivering high-quality work, and I have developed strong technical skills. I am also a team player who collaborates well with colleagues and other departments to achieve common objectives.
+
+I am always looking to improve my skills and stay up-to-date with the latest industry trends, and I am open to new challenges that can help me grow as a professional.
 
 ### Tecnologías💻
 
