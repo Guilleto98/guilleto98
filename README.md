@@ -2,15 +2,15 @@
 
 ### Conozcamonos mejor🤝
 
-Mi nombre es Guillermo Torres, y soy un desarrollador front-end comprometido con experiencia en React. Me apasiona crear aplicaciones web hermosas y funcionales.
+Hola!, mi nombre es Guillermo Torres, soy un desarrollador front-end comprometido con experiencia en React. Me apasiona crear aplicaciones web excelentes y funcionales.
 
 Me gradué del Coding Bootcamp de Hack Academy, donde invertí más de 600 horas aprendiendo los principales lenguajes de programación. Durante mi formación, descubrí mi entusiasmo por la programación y desde entonces me he enfocado en el desarrollo Front-end con React.js.
 
-Como profesional, me comprometo a entregar un trabajo de alta calidad, considero que he desarrollado habilidades técnicas sólidas. También me considero un gran compañero de equipo que colabora bien con colegas y otros departamentos para lograr objetivos comunes.
+Como profesional, me comprometo a entregar todo lo que este a mi alcance para desarrollar productos de calidad, tengo fé de que he adquirido habilidades técnicas sólidas. También me considero un buen compañero, con mucho entusiasmo para lograr el mejor hambiente laboral y dispuesto a trabajar con otros departamentos para lograr objetivos comunes.
 
-Siempre estoy buscando mejorar mis habilidades y estar al día con las últimas tendencias de la industria, y estoy abierto a nuevos desafíos que puedan ayudarme a crecer como profesional.
+Siempre estoy buscando mejorar mis habilidades y estar al día con las últimas tendencias de la industria, estoy abierto a nuevos desafíos que puedan ayudarme a crecer como profesional.
 
-My name is Guillermo Torres, and I am a dedicated front-end developer with experience in React. I am passionate about creating beautiful and functional web applications.
+Greetings, my name is Guillermo Torres, and I am a dedicated front-end developer with experience in React. I am passionate about creating beautiful and functional web applications.
 
 I graduated from Hack Academy's Coding Bootcamp, where I invested over 600 hours learning the most prominent programming languages. During my education, I discovered my enthusiasm for programming and have since been focused on Front-end development with React.js.
 
