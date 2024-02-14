@@ -1,24 +1,12 @@
-# Estimados! Bienvenidos a mi Github 👋
+# Hi dear! Welcome to my Github 👋
 
-### Conozcamonos mejor🤝
+### About me🤝
 
-Hola!, mi nombre es Guillermo Torres, soy un desarrollador front-end comprometido con experiencia en React. Me apasiona crear aplicaciones web excelentes y funcionales.
+Full Stack developer specialized in creating applications with React.js and Node.js. Focused on constant growth and continuous improvement of my skills. Always attentive to the latest technologies.
 
-Me gradué del Coding Bootcamp de Hack Academy, donde invertí más de 600 horas aprendiendo los principales lenguajes de programación. Durante mi formación, descubrí mi entusiasmo por la programación y desde entonces me he enfocado en el desarrollo Front-end con React.js.
+Discipline and perseverance are values I consider indispensable for personal development and professional success.
 
-Como profesional, me comprometo a entregar todo lo que este a mi alcance para desarrollar productos de calidad, tengo fé de que he adquirido habilidades técnicas sólidas. También me considero un buen compañero, con mucho entusiasmo para lograr el mejor ambiente laboral y dispuesto a trabajar con otros departamentos para lograr objetivos comunes.
-
-Siempre estoy buscando mejorar mis habilidades y estar al día con las últimas tendencias de la industria, estoy abierto a nuevos desafíos que puedan ayudarme a crecer como profesional.
-
-Greetings, my name is Guillermo Torres, and I am a dedicated front-end developer with experience in React. I am passionate about creating beautiful and functional web applications.
-
-I graduated from Hack Academy's Coding Bootcamp, where I invested over 600 hours learning the most prominent programming languages. During my education, I discovered my enthusiasm for programming and have since been focused on Front-end development with React.js.
-
-As a professional, I am committed to delivering high-quality work, and I have developed strong technical skills. I am also a team player who collaborates well with colleagues and other departments to achieve common objectives.
-
-I am always looking to improve my skills and stay up-to-date with the latest industry trends, and I am open to new challenges that can help me grow as a professional.
-
-### Tecnologías💻
+### Techs💻
 
 - HTML5
 -CSS
@@ -31,7 +19,7 @@ I am always looking to improve my skills and stay up-to-date with the latest ind
 - Git GitHub
 -Visual Studio Code 🛠
 
-#### Donde puedes encontrarme 🤜🤛
+#### LET'S GET IN CONTACT 🤜🤛
 
 -https://www.linkedin.com/in/guillermo-torres-831b2b223
 -https://www.instagram.com/tr.guille/
